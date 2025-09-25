@@ -1,8 +1,9 @@
 // ==UserScript==
 // @name         C.A.T.
-// @version      2.3
+// @version      2.3.1
 // @description  Custom Aidungeon Themes with library, and optimization
 // @author       Tokiw0_3
+// @editor       Mad19pumpkin
 // @match        https://play.aidungeon.com/*
 // @match        https://beta.aidungeon.com/*
 // @grant        GM_addStyle
